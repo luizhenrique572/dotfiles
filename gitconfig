@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lfigueira572@gmail.com
+	name = Luiz Figueira
